@@ -1,0 +1,67 @@
+/*
+/* SKILLS START */
+.main .skills{
+	list-style: none;
+	margin: 30px 122px 0 102px;
+}
+.main .skills li{
+
+
+
+/* SKILLS END */
+/* WORKS START */
+.works{
+	margin: 0;
+	margin-left: -55px;
+	list-style: none;
+	overflow-y: scroll;
+	height: inherit;
+}
+.works li {
+	display: inline-block;
+	margin-right: -15px;
+}
+.works li img{
+	padding: 67px 69px 73px 72px;
+	background: #e4e4e4;
+}
+/* WORKS END */
+/* RESUME START */
+.wrapper-res {
+	width: 417px;
+	margin: 0 auto;
+	margin-top: 60px;
+	color: #fff;
+}
+.h3-res {
+	font-size: 18px;
+	color: #4ace54;
+}
+.p-res{
+	margin-top: 40px;
+	line-height: 25px;
+}
+.btn-download{
+	width: 230px;
+	margin: 40px auto;
+}
+.a-download{
+	display: block;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 15px 20px 15px 70px;
+	background: #39d084;
+	border-radius: 20px;
+}
+.img-res{
+	position: absolute;
+	top: -11px;
+	left: -2px;
+}
+.weight-res{
+	text-align: center;
+	margin-top: 10px;
+}
+/* RESUME END */
